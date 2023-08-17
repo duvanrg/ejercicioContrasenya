@@ -1,7 +1,7 @@
 /*---------------------------*/
 /*        ejercicio1         */
 /*---------------------------*/
-/*Se desea realizar la suma de los números pares y la suma de los números impares (por aparte), de los números comprendidos desde uno hasta 578934. */
+
 
 const prompt = require("prompt-sync")();                    //llamamos la funcion de prompt
 /** metodo normal
